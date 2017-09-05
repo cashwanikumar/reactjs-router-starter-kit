@@ -1,3 +1,8 @@
+/*
+ * All router is defined
+ * Route and default handler file will be setup
+ */
+
 "use strict";
 
 var React = require('react');
