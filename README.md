@@ -12,6 +12,7 @@ A Complete set-up for ReactJs with react router for kick starting
  #For kick start:
  - Install NodeJS (https://nodejs.org/en/download/)
  - Install Gulp (https://www.npmjs.com/package/gulp) better install globally
+ - Run npm install on project root directory
  - run gulp for project setup
  - open url http://localhost:8888/
  
